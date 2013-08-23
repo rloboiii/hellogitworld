@@ -1,3 +1,5 @@
+This is BLUDE the way that master thinks the first line should read
+
 This is a sample project students can use during GitHub's Git class.
 
 Here is an addition by me
