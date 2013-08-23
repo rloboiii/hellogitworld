@@ -1,4 +1,4 @@
-This is RED the way that master thinks the first line should read
+This is PURPLE the way that master thinks the first line should read
 
 This is a sample project students can use during GitHub's Git class.
 
